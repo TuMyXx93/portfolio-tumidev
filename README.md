@@ -35,6 +35,6 @@ Si deseas contribuir al portfolio de Tumidev, puedes seguir los siguientes pasos
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o simplemente deseas comunicarte con Tumidev, puedes enviar un correo electrónico a tumidev@example.com.
+Si tienes alguna pregunta, sugerencia o simplemente deseas comunicarte con Tumidev, puedes enviar un correo electrónico a tumyxx@gmail.com.
 
 ¡Gracias por visitar el portfolio de Tumidev!
